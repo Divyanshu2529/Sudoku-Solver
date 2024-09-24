@@ -11,7 +11,7 @@ Interactive Solution Viewing: View each solution one by one, with the ability to
 
 
 Technologies Used:
-Python 3
+Python 3, 
 NumPy (for displaying the solution grids)
 
 
